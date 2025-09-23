@@ -1,0 +1,47 @@
+input  1
+
+MW008
+Microwave
+2.100.000
+Panasonic
+2_Tahun
+3
+1200W
+16kg
+Hitam
+Industrial
+NN-GT65
+30L
+1100W
+
+input 2
+
+MW009
+Microwave
+1.750.000
+Midea
+1_Tahun
+9
+850W
+12kg
+Putih
+Industrial
+MM720C
+23L
+800W
+
+input 3
+
+MW010
+Microwave
+2.500.000
+Bosch
+3_Tahun
+2
+1400W
+18kg
+Abu-Abu
+Home
+BOS-45X
+32L
+1300W

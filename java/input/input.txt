@@ -1,0 +1,47 @@
+input 1
+
+MW011
+Microwave
+1.650.000
+Sanken
+1 Tahun
+6
+800W
+11kg
+Silver
+Portable
+SKN-20X
+20L
+750W
+
+input 2
+
+MW012
+Microwave
+2.200.000
+Electrolux
+2 Tahun
+4
+1000W
+15kg
+Hitam
+Home
+ELX-M900
+28L
+950W
+
+input 3
+
+MW013
+Microwave
+1.550.000
+Polytron
+1 Tahun
+8
+850W
+10kg
+Merah
+Industrial
+PLY-25D
+25L
+800W

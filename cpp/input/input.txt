@@ -1,0 +1,47 @@
+input 1
+
+MW006
+Microwave
+1.300.000
+Polytron
+1_Tahun
+6
+700W
+9kg
+Merah
+Portable
+PLY-20A
+20L
+650W
+
+input 2
+
+MW007
+Microwave
+1.900.000
+Electrolux
+2_Tahun
+4
+1000W
+15kg
+Silver
+Portable
+ELX-M900
+28L
+950W
+
+input 3
+
+Kode: MW008
+Microwave
+2.100.000
+Panasonic
+2_Tahun
+3
+1200W
+16kg
+Hitam
+Home
+NN-GT65
+30L
+1100W
