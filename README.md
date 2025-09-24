@@ -71,7 +71,7 @@ Saya Hawa Dwiafina Azahra dengan NIM 2400336 mengerjakan Tugas Praktikum 2 dalam
    - alur PHP
      - Data microwave disimpan dalam array of objects.
      - printTable() menampilkan data dalam bentuk tabel HTML.
-     - Ada kolom gambar produk (<img src="images/...">).
+     - Ada kolom gambar produk (< img src = "images/..." >).
      - Tidak ada input user, semua data hardcode.
        
    - alur Java
