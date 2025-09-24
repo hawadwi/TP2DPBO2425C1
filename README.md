@@ -82,7 +82,39 @@ Saya Hawa Dwiafina Azahra dengan NIM 2400336 mengerjakan Tugas Praktikum 2 dalam
     
 4. dokumentasi
    - C++
-     ![Tampilkan barang](cpp/dokumentasi/Tampilkan_barang_sebelum_add.png)
-     ![Add barang](cpp/dokumentasi/Add_barang.png)
-     ![Output tabel setelah add](cpp/dokumentasi/Tampilkan_barang_setelah_add.png)
      
+     ### Tampilan tabel awal dengan 5 data
+     ![Tampilkan barang](cpp/dokumentasi/Tampilkan_barang_sebelum_add.png)
+
+     ### Add barang
+     ![Add barang](cpp/dokumentasi/Add_barang.png)
+
+     ### Tampilan tabel setelah add barang
+     ![Output tabel setelah add](cpp/dokumentasi/Tampilkan_barang_setelah_add.png)
+
+   - Java
+     
+     ### Tampilan tabel awal dengan 5 data
+     ![Tampilkan barang](java/dokumentasi/Tampilkan_barang_sebelum_add.png)
+
+     ### Add barang
+     ![Add barang](java/dokumentasi/Add_barang.png)
+
+     ### Tampilan tabel setelah add barang
+     ![Output tabel setelah add](java/dokumentasi/Tampilkan_barang_setelah_add.png)
+
+   - php
+
+     ### output tabel data produk
+     ![Tampilkan barang](php/dokumentasi/dokumentasi.mp4)
+     
+   - python
+
+      ### Tampilan tabel awal dengan 5 data
+     ![Tampilkan barang](python/dokumentasi/Tampilkan_barang_sebelum_add.png)
+
+     ### Add barang
+     ![Add barang](python/dokumentasi/Add_barang.png)
+
+     ### Tampilan tabel setelah add barang
+     ![Output tabel setelah add](python/dokumentasi/Tampilkan_barang_setelah_add.png)
