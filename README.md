@@ -44,3 +44,45 @@ Saya Hawa Dwiafina Azahra dengan NIM 2400336 mengerjakan Tugas Praktikum 2 dalam
   
 2. Diagram design
    
+![TP2-DESIGN](https://github.com/user-attachments/assets/4df5ecae-46fb-47e4-8a0a-2987a4549aa6)
+
+3. alur program
+   - alur umum
+     - Program mulai → tampilkan menu
+     - 5 data awal Microwave sudah hardcode
+     - User pilih menu:
+        - Tambah Barang → input data baru, dicek apakah kode duplikat
+        - Tampilkan Barang → tampilkan semua barang dalam bentuk tabel
+        - Keluar → keluar dari program
+     - Tabel ditampilkan dengan lebar kolom menyesuaikan isi data
+       
+   - alur C++
+     - Data microwave disimpan dalam array statis (Microwave daftar[100]).
+     - tambahBarang() dipanggil untuk input data baru.
+     - Fungsi cetakHeader() + tampilkan() dipakai buat bikin tabel.
+     - Pengecekan kode duplikat dilakukan manual dengan loop.
+       
+   - alur python
+     - Data microwave disimpan dalam list.
+     - Fungsi print_table() dipakai untuk menampilkan tabel rapi.
+     - Pengecekan duplikat dilakukan sebelum append dengan loop.
+     - as_list() dipakai untuk ambil semua atribut dalam bentuk array string.
+
+   - alur PHP
+     - Data microwave disimpan dalam array of objects.
+     - printTable() menampilkan data dalam bentuk tabel HTML.
+     - Ada kolom gambar produk (<img src="images/...">).
+     - Tidak ada input user, semua data hardcode.
+       
+   - alur Java
+     - Data microwave disimpan dalam ArrayList.
+     - Pengecekan duplikat dilakukan lewat fungsi cariKode().
+     - asArray() dipanggil supaya data bisa ditampilkan dalam tabel dinamis.
+     - Input dilakukan dengan Scanner.
+    
+4. dokumentasi
+   - C++
+     ![Tampilkan barang](cpp/dokumentasi/Tampilkan_barang_sebelum_add.png)
+     ![Add barang](cpp/dokumentasi/Add_barang.png)
+     ![Output tabel setelah add](cpp/dokumentasi/Tampilkan_barang_setelah_add.png)
+     
